@@ -111,3 +111,71 @@ This set contains **30 beginner-friendly coding questions** across:
     Given a string, count how many vowels it contains.
 
 ---
+NOOBS
+
+# Super-Beginner Mixed Coding Questions (Level 1–2)
+
+1. **Add Two Numbers From Input**  
+   Take two numbers as input and print their sum.
+
+2. **Check If Number Is Even or Odd**  
+   Input a number and print `Even` or `Odd`.
+
+3. **Check If Two Numbers Are Equal**  
+   Input 2 numbers.  
+   Print `Equal` or `Not Equal`.
+
+4. **Find the Smallest of Three Numbers**  
+   Input 3 numbers and print the smallest one.
+
+5. **Input an Array and Print It**  
+   Read `N`, then read `N` numbers into an array and print them.
+
+6. **Check If a Number Exists in an Array**  
+   Input array + a number.  
+   Print `Found` or `Not Found`.
+
+7. **Pass or Fail**  
+   Input marks.  
+   If marks ≥ 40 → `Pass`, otherwise `Fail`.
+
+8. **Count How Many Times Zero Appears in an Array**  
+   Given an array, count all the zeros.
+
+9. **Add All Numbers From 1 to N**  
+   Given `N`, find the sum `1 + 2 + ... + N`.
+
+10. **Check Positive, Negative or Zero**  
+    Input a number.  
+    Print `Positive`, `Negative`, or `Zero`.
+
+11. **Find the First and Last Element of an Array**  
+    Input an array and print its first and last elements.
+
+12. **Replace All Negative Numbers With Zero in an Array**  
+    Modify the array.
+
+13. **Check If Character Is a Digit**  
+    If input is 0–9 → print `Digit`, else `Not Digit`.
+
+14. **Find the Larger of Two Numbers**  
+    Input 2 numbers and print the bigger one.
+
+15. **Count Spaces in a Sentence**  
+    Input a sentence and count the spaces.
+
+16. **Sum of First 3 Numbers**  
+    Read 3 numbers and print their total.
+
+17. **Check If Number Is a Multiple of 5**  
+    Print `Yes` if it is, else `No`.
+
+18. **Count How Many Elements in Array Are Greater Than 10**  
+    Return the count.
+
+19. **Check If String Is Empty**  
+    If length is 0 → print `Empty`.
+
+20. **Multiply Two Numbers Without Using * Operator**  
+    Use repeated addition.
+
