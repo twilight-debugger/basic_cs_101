@@ -1,0 +1,113 @@
+# Beginner Coding Practice Set (Level 2 → 3)
+
+This set contains **30 beginner-friendly coding questions** across:
+
+- Algorithms (10)
+- Data Structures (10)
+- Basic CS / Logic Problems (10)
+
+---
+
+## ⭐ Algorithms (10 Problems)
+
+1. **Sum of Array Elements**  
+   Write a program that takes an array of numbers and returns the sum of all elements.
+
+2. **Find the Largest Number**  
+   Given an array of integers, return the maximum number.
+
+3. **Count Even and Odd Numbers**  
+   Given a list of integers, count how many are even and how many are odd.
+
+4. **Reverse a Number**  
+   Write a program to reverse the digits of a given integer.  
+   Example: `1234 → 4321`
+
+5. **Check Palindrome Number**  
+   Check if a number reads the same forward and backward.
+
+6. **Factorial of a Number**  
+   Write a function that returns `n!` (factorial of n).
+
+7. **Fibonacci Sequence (First N Terms)**  
+   Print the first `N` numbers of the Fibonacci sequence.
+
+8. **Linear Search**  
+   Search for a target value inside an array and return its index (or `−1`).
+
+9. **Count Occurrence of a Number**  
+   Given an array and a value, count how many times the value appears.
+
+10. **Check Prime Number**  
+    Write a program to check if a number is prime.
+
+---
+
+## ⭐ Data Structures (10 Problems)
+
+1. **Insert into an Array**  
+   Insert a value at a given index in an array.
+
+2. **Delete from an Array**  
+   Remove an element at a given index.
+
+3. **Find Length of Array (Without Built-in Length)**  
+   Count the number of elements manually.
+
+4. **Stack Implementation (Push & Pop)**  
+   Simulate a stack using an array.
+
+5. **Queue Implementation (Enqueue & Dequeue)**  
+   Simulate a queue using an array.
+
+6. **Reverse an Array**  
+   Reverse the elements of an array in-place.
+
+7. **Find Second Largest Element**  
+   Return the second highest number in an array.
+
+8. **Check if Array is Sorted**  
+   Return true if elements are in increasing order.
+
+9. **Merge Two Sorted Arrays**  
+   Combine two sorted arrays into one sorted array.
+
+10. **Find Duplicate Elements in an Array**  
+    Print all numbers that appear more than once.
+
+---
+
+## ⭐ Basic Computer Science / Logic Problems (10)
+
+1. **Swap Two Numbers (Without Using Third Variable)**  
+   Swap the values of two variables.
+
+2. **Count Digits in a Number**  
+   Return how many digits a number has.
+
+3. **Sum of Digits of a Number**  
+   Example: `123 → 1+2+3 = 6`
+
+4. **Find ASCII Value of a Character**  
+   Input → character  
+   Output → ASCII code
+
+5. **Convert Lowercase to Uppercase**  
+   Example: `"a" → "A"`
+
+6. **Simple Calculator**  
+   Take two numbers and an operator (`+ − * /`) and compute the result.
+
+7. **Grade Calculator**  
+   Take marks and print grade: `A/B/C/D/Fail`.
+
+8. **Print Multiplication Table**  
+   Example: print the table of `5`.
+
+9. **Check if a Year is Leap Year**  
+   Return true/false.
+
+10. **Count Vowels in a String**  
+    Given a string, count how many vowels it contains.
+
+---
