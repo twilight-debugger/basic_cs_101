@@ -13,9 +13,8 @@ int main(){
         cout << "enter the values" << endl;
         cin >> val;
 
-        arr[int i] = val;
-        
+        arr(int i) = val;
         
     }
-
+    return 0;
 }
