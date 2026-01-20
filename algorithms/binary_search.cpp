@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-// Time complexity ?
+// Time complexity -> O(log n)
 int binarySearch(vector<int> arr, int x){
     int low = 0;
     int high = arr.size()-1;
@@ -21,7 +21,6 @@ int binarySearch(vector<int> arr, int x){
 
 int main(){
     vector<int> arr = {0,4,34,3,2,1};
-    // Time complexity ?
     sort(arr.begin(),arr.end());
     cout << binarySearch(arr,34) << endl;
 
