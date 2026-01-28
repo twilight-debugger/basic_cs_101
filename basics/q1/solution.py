@@ -1,21 +1,11 @@
-# def swap(a,b):
-    
-#     temp = b
-#     b = a
-#     a = temp
+def swap(a,b):
+     temp = a
+     a = b
+     b = temp
 
-#     return (a,b)
-# x = 7
-# y = 5
-# print(x,y)
-# # result = swap(x,y)
-# # print(result)
+     return(a,b)
 
-# k = abs(x - y) 
-# print(x+k,y-k)
-
-def swap(x,y):
-     k = abs(x-y)
-    return (x+k,y-k)
-
-
+x = int(input("Enter first number: "))
+y = int(input("Enter second number: "))
+print("Before swap: ",x,y)
+print("After swap: ",swap(x,y))

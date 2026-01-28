@@ -23,7 +23,7 @@ bool linearSearch(vector<int> arr, int x){
 int main(){
 
     // c-type array
-    // int arr[6] = 
+    // int arr[6] 
     int x = 3;
 
     vector<int> arr = {9,8,4,3,2,0,1};
