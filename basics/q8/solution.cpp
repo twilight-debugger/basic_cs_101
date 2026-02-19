@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int multiplication(int num,int limit){
+void multiplication(int num,int limit){
     for(int i = 0;i<= limit;i++){
         cout << num*i << endl;;
     }
