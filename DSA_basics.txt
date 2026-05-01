@@ -1,0 +1,45 @@
+30 Basic DSA Questions - Very Easy Level
+
+ARRAYS
+1. Find the largest element in an array
+2. Find the smallest element in an array
+3. Reverse an array
+4. Calculate the sum of all elements in an array
+5. Count occurrences of a specific element
+6. Check if an array is sorted
+
+STRINGS
+7. Reverse a string
+8. Check if a string is a palindrome
+9. Count vowels in a string
+10. Convert a string to uppercase/lowercase
+11. Find the length of a string without using built-in functions
+12. Check if two strings are anagrams
+
+LINKED LIST
+13. Traverse and print all nodes of a linked list
+14. Find the length of a linked list
+15. Insert a node at the beginning of a linked list
+16. Delete the first node of a linked list
+17. Search for an element in a linked list
+
+STACK & QUEUE
+18. Implement a stack using an array (push & pop)
+19. Implement a queue using an array (enqueue & dequeue)
+20. Check for balanced parentheses using a stack
+
+SEARCHING & SORTING
+21. Linear search in an array
+22. Binary search in a sorted array
+23. Bubble sort an array
+24. Find the second largest element in an array
+
+RECURSION
+25. Find the factorial of a number using recursion
+26. Find the nth Fibonacci number using recursion
+27. Calculate the sum of digits of a number recursively
+
+TREES
+28. Find the height of a binary tree
+29. Count the number of nodes in a binary tree
+30. Print all leaf nodes of a binary tree
